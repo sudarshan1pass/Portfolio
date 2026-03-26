@@ -1,6 +1,6 @@
 import  Contact  from "./Contact"
 import  Home from "../page/Home"
-import Experices from "./Experices"
+// import Experices from "./Experices"
 import About from "./About"
 import Project from "./Project"
 import Skill from "./Skill"
@@ -13,7 +13,7 @@ const Homemain = () => {
      <About/>
      <Skill/>
      <Project/>
-      <Experices/> 
+      {/* <Experices/>  */}
       <Contact/>
     </div>
   )
